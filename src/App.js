@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Docker h ya bawal hai
+          Docker k saath AWS free nahi hai -_-
         </p>
         <a
           className="App-link"
